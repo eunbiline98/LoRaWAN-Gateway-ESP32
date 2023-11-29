@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"name": "LoraWAN Gateway-ETH",
+			"path": ".."
+		},
+		{
+			"name": "LoRa Nodes 1 ESP-32",
+			"path": "../../LoRa Nodes 1 ESP-32"
+		},
+		{
+			"name": "LoRa Nodes 2 ESP-8266",
+			"path": "../../LoRa Nodes 2 ESP-8266"
+		}
+	],
+	"settings": {}
+}
